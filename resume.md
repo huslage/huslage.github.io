@@ -1,8 +1,8 @@
 ---
 layout: default
 Title: Aaron Huslage Resume
---- 
-3016 Dixon Rd. Durham, NC 27707   
+---
+3016 Dixon Rd. Durham, NC 27707
 huslage@gmail.com  
 +1.919.600.1712  
 [http://github.com/huslage](http://github.com/huslage)  
@@ -11,7 +11,7 @@ huslage@gmail.com
 
 # Summary
 
-Aaron is an accomplished technologist, open source hardware designer, open source software contributer, writer, leader and entrepreneur. His last venture, iilab, helps organizations make sense, and make use, of innovation and technology to deliver more social impact in their daily work. Prior to that he founded Tethr, which built a product to get people connected to the Internet anywhere in the world. He was a Co-Founder of Safecast, a global nonprofit providing access to open sensor network hardware, software and data. 
+Aaron is an accomplished technologist, open source hardware designer, open source software contributer, writer, leader and entrepreneur. His last venture, iilab, helps organizations make sense, and make use, of innovation and technology to deliver more social impact in their daily work. Prior to that he founded Tethr, which built a product to get people connected to the Internet anywhere in the world. He was a Co-Founder of Safecast, a global nonprofit providing access to open sensor network hardware, software and data.
 
 Aaron has been a System Administrator and System Architect for major corporations such as Microsoft and Major League Baseball. Aaron focuses on automation and systems thinking. Scripting, DevOps and System Design are in his blood. He has also contributed his expertise to various media properties like GigaOm and O'Reilly Media. Aaron was formerly on the organizing committee for O'Reilly Media's ETel conference.
 
@@ -25,7 +25,7 @@ Aaron has been a System Administrator and System Architect for major corporation
 [http://gigaom.com/2008/08/31/hurricane-gustav-t-mobile-opens-wifi-network-in-gulf-coast/](http://gigaom.com/2008/08/31/hurricane-gustav-t-mobile-opens-wifi-network-in-gulf-coast/)  
 [http://www.movements.org/blog/entry/speak2tweet-and-alive-in-egypt-whatd-they-learn-from-their-reactions-to-egy/](http://www.movements.org/blog/entry/speak2tweet-and-alive-in-egypt-whatd-they-learn-from-their-reactions-to-egy/)  
 
-# Skills 
+# Skills
 
 * Security
 * Network Administration
@@ -36,48 +36,20 @@ Aaron has been a System Administrator and System Architect for major corporation
 * Software Development
 * Open Source
 
-### Cloud
-
-* OpenStack
-* Amazon Web Services
-* Google Compute Engine
-* Rackspace Cloud
-
-### Programming Languages
-
-* Perl
-* Python
-* Ruby
-* Javascript
-* C/C++
-* PHP
-* Shell Scripting
-
-### Operating Systems
-
-* Linux
-* Unix 
-* Windows
-* Solaris 
-
-### Networking Systems
-
-* Cisco
-* Juniper
-* Ubiquiti
-
-### Databases
-
-* MySQL
-* PostgreSQL
-* CouchDB
-* MongoDB
-* Oracle
+Cloud | Programming Languages | Operating Systems | Networking | Databases
+------| --------------------- | ----------------- | ---------- | ---------
+| OpenStack | Perl | Linux | Cisco | MySQL
+| Amazon Web Services | Python | Unix | Juniper | PostgreSQL
+| Google Compute Engine | Ruby | Windows | Ubiquiti | CouchDB
+| Rackspace Cloud | Javascript | Solaris | Broadcom | MongoDB
+|| C/C++ ||| Oracle
+|| PHP |||
+|| Shell Scripting |||
 
 # Experience
 
 ### Crisis Response IT Specialist  
-2005 - Present  
+2005 - Present
 
 * Ushahidi Trusted Developer
 * Manage and contribute technical services to Crowdsourced crisis response mapping sites.
@@ -85,9 +57,9 @@ Aaron has been a System Administrator and System Architect for major corporation
 
 ### iilab
 Co-founder, Technology Director  
-2011 - 2014  
+2011 - 2014
 
-* Consulted with Nonprofits, NGOs and Governments to generate IT solutions for social impact. 
+* Consulted with Nonprofits, NGOs and Governments to generate IT solutions for social impact.
 * Managed projects, client relationships and internal business practices.
 * Clients included:
 	* ATI.tn: Worked with Tunisian Internet Agency give the public access to the filtering servers used by the Ben Ali regime. This helps Internet Freedom Activists to see the tools and techniques that repressive regimes use to suppress free speech on the Internet.
@@ -99,7 +71,7 @@ Co-founder, Technology Director
 
 ### Tethr
 Co-Founder, Chief Technology Officer  
-2011 - 2013  
+2011 - 2013
 
 Tethr was a company dedicated to creating a product that would allow journalists, community organizers, crisis responders and municipalities to work online, regardless of the state of the infrastructure around them. The product utilized existing technologies (Linux, Satellite Communications, etc) in new ways. We also began working on a "humanitarian cloud" to allow humanitarian organizations and NGOs access to inexpensive and secure cloud resources on demand.
 
@@ -110,9 +82,9 @@ Tethr was a company dedicated to creating a product that would allow journalists
 
 ### Ontario College of Art and Design, Inclusive Design Research Center
 System Administrator  
-2011 - 2012  
+2011 - 2012
 
-* Built a 50 node cloud using OpenStack. 
+* Built a 50 node cloud using OpenStack.
 * Created designs for network, storage and datacenter infrastructure required to support over 500 internal and external users all over the world.
 * Ran over 2000 virtual machines running on 50 nodes using 150TB of storage.
 
@@ -123,8 +95,8 @@ Co-Founder
 Safecast is global nonprofit providing access to open sensor network data, software and hardware. Focused on monitoring radiation levels in Japan in the wake of the 3/11 earthquake and nuclear emergency.
 
 ### Sjobeck Integration Professionals
-2010 - 2011  
 Lead System Engineer  
+2010 - 2011
 
 Took this small IT consulting firm in Portland, Oregon to the next level by introducing new sales strategies and new products.
 
@@ -140,7 +112,7 @@ Took this small IT consulting firm in Portland, Oregon to the next level by intr
 
 ### NetApp
 Sr. Technical Support Engineer  
-2008 - 2010  
+2008 - 2010
 
 * Worked with Fortune 500 companies and Federal Government customers to resolve issues and provide guidance on future deployments.
 * Drove customer problems to resolution on high-end enterprise storage hardware and software
@@ -148,7 +120,6 @@ Sr. Technical Support Engineer
 * Defined processes for working with Federal Government and high-security customers.
 
 ### Microsoft
-
 Sr. System Engineer  
 2007 - 2008
 
@@ -160,53 +131,6 @@ Managed infrastructure for Bing.com, one of the largest search engines on the In
 * Wrote scripts in Perl and Python for management of critical infrastructure
 * Worked with the Network Engineering team to implement new architectures and troubleshoot major problems.
 
-### Consultant
-
-2005 - 2007
-
-Managed development teams, architected and implemented scalable web infrastructure. 
-
-* Clients included: 
-	* Values of N - Defined comprehensive infrastructure, identified scalability issues, researched new technologies
-	* Platial - Designed requirements and scaling points for the company’s growing infrastructure
-	* Inveneo - Coordinated a large team of volunteers to deploy wireless networks to support victims of Hurricane Katrina. Managed donation and distribution of over $750k in technology and telephone services
-
-### CNF Service Company
-
-Sr. System Administrator  
-2002 - 2005
-
-* Managed large Oracle AR/AP system.
-* Designed and implemented new backup infrastructure based on NetBackup, Hitachi storage, Brocade switches and Cisco network hardware.
-* Wrote Perl and Ruby management scripts.
-
-### Major League Baseball Advanced Media
-
-Sr. System Administrator  
-2001 - 2002
-
-Managed infrastructure for MLB.com.
-
-* Sun System Administration and Architecture.
-* Symantec Veritas storage systems.
-* NetBackup backups.
-* Perl and Python scripting.
-
-### Collective Technologies
-
-Staff Consultant  
-2000 - 2001
-
-* Clients included AT&T Wireless, HP, Mitsubishi Electronics, Cranel, POP.com, Dreamworks SKG. 
-* Managed team of up to 15 System, Network and Database Administrators in a large Internet implementation project. 
-* Researched and designed solutions for connectivity, co-location, hardware, and software for an Internet implementation project. 
-* Installed and configured Linux machines as Web, Database and infrastructure servers. 
-* Installed and configured Cisco switches, routers, and VPN concentrators.
-* Configured and tuned NetApp filers.
-* Provided Oracle 7, 8 and 8i Database Administration Support.
-* Maintained operation of Veritas NetBackup on Oracle 8, Oracle 8i, Informix and Sybase servers.
-
-### IBM Global Services, Red Hat Software, Catalogue.com, Interpath
-1993-2001  
-
-* Web Development, System Administration
+### Previously
+Consultant,  CNF Service Company, Major League Baseball Advanced Media, Collective Technologies, IBM Global Services, Red Hat Software, Catalogue.com, Interpath
+1993-2007
